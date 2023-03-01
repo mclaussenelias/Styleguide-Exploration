@@ -1,0 +1,175 @@
+
+
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    /* text-align: center; */
+}
+
+hr {
+    margin-top: 100px;
+}
+
+p {
+    font-size: 1rem;
+}
+
+li {
+    font-size: 1rem;
+}
+
+.color-image {
+    text-align: left;
+    width: 400px;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+
+.color-label {
+    text-align: left;
+    margin: 3% 7%;
+}
+
+.color-set {
+    margin: auto 5%;
+}
+
+.color-swatch {
+    text-align: center;
+    color: white;
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+    margin: auto;
+}
+
+
+.font-family-charis-sil {
+    font-family: 'Charis SIL', serif;
+}
+
+.font-family-cormorant-garamond {
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.font-family-e-b-garamond {
+    font-family: 'EB Garamond', serif;
+}
+
+.font-family-figtree {
+    font-family: 'Figtree', sans-serif;
+}
+
+.font-family-fredoka {
+    font-family: 'Fredoka', sans-serif;
+}
+
+.font-family-halant {
+    font-family: 'Halant', serif;
+}
+
+.font-family-lora {
+    font-family: 'Lora', serif;
+}
+
+.font-family-lexend {
+    font-family: 'Lexend', sans-serif;
+}
+
+.font-family-montserrat {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.font-family-murecho {
+    font-family: 'Murecho', sans-serif;
+}
+
+.font-family-noto-sans-display {
+    font-family: 'Noto Sans Display', sans-serif;
+}
+
+.font-family-rasa {
+    font-family: 'Rasa', serif;
+}
+
+.font-family-sorts-mill-goudy {
+    font-family: 'Sorts Mill Goudy', serif;
+}
+
+.font-family-urbanist {
+    font-family: 'Urbanist', sans-serif;
+}
+
+
+.font-sample {
+    font-size: 2rem;
+    text-align: left;
+    padding: 0 7%;
+}
+
+.font-weight-100 {
+    font-weight: 100;
+}
+
+.font-weight-200 {
+    font-weight: 200;
+}
+
+.font-weight-300 {
+    font-weight: 300;
+}
+
+.font-weight-400 {
+    font-weight: 400;
+}
+
+.font-weight-500 {
+    font-weight: 500;
+}
+
+.font-weight-600 {
+    font-weight: 600;
+}
+
+.font-weight-700 {
+    font-weight: 700;
+}
+
+.font-weight-800 {
+    font-weight: 800;
+}
+
+.font-weight-900 {
+    font-weight: 900;
+}
+
+.hr-navbar {
+    margin-top: 0;
+}
+
+.navbar {
+    padding: 3% 7%;
+}
+
+.navbar-brand {
+    font-weight: 600;
+}
+
+.navbar-brand:hover {
+    font-weight: 700;
+}
+
+.nav-item {
+    text-align: center;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.nav-item:hover {
+    font-weight: 600;
+}
+
+.table-of-contents {
+    text-align: left;
+    padding: 3% 2%;
+}
